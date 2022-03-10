@@ -1,8 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka:wght@300;400&display=swap');
 *{
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-family: 'Fria sans' sans-serif;
+  font-family: 'Fredoka', sans-serif;
 }
 
 body{
@@ -87,6 +88,11 @@ h1{
    color: #313131;
    font-size: 18px;
    margin-bottom: 16px;
+ }
+ .result p .searchmatch{
+   font-weight: 700;
+   font-size: 20px;
+   color: #A84fff;
  }
 
  .result a{
