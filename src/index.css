@@ -112,3 +112,9 @@ h1{
  .result a:hover{
   background-color: #FF4A48;
 }
+
+@media screen and (max-width: 500px) {
+  .search-box{
+    width: 20rem;
+  }
+}
